@@ -1,12 +1,11 @@
 # Site settings
-title:
-email:
+title: Loadify
+email: janis.konutis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+phone_number: +371 27103680
 
 # Build settings
 markdown: kramdown
